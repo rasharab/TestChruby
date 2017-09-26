@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sudo gem install slather
+#sudo gem install slather
