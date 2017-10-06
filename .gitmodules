@@ -1,0 +1,3 @@
+[submodule "xcpretty"]
+	path = xcpretty
+	url = https://github.com/supermarin/xcpretty.git
